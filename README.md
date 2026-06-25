@@ -3,7 +3,7 @@
 > A premium, single-user Desktop Stock Controlling System custom-built for **JFI CONSOLIDATED (PVT) LTD**. This application streamlines warehouse operations, manages inventory levels, coordinates purchase orders, tracks goods received/issued, and provides rich analytical reports.
 
 ---
-![hero](screenshots\hero.png)
+![hero](screenshots/hero.png)
 ---
 
 ## 🚀 Key System Features
@@ -137,35 +137,35 @@ The core SQL schemas are managed in [database.js](file:///c:/Projects/stock-cont
 
 ## 🖥️ User Interface Screenshots
 
-![UI](screenshots\UI\overview.png)
+![UI](screenshots/UI/overview.png)
 ---
-![UI](screenshots\UI\overviewdark.png)
+![UI](screenshots/UI/overviewdark.png)
 ---
-![UI](screenshots\UI\Dashboard.png)
+![UI](screenshots/UI/Dashboard.png)
 ---
-![UI](screenshots\UI\Itemmaster.png)
+![UI](screenshots/UI/Itemmaster.png)
 ---
-![UI](screenshots\UI\Suppliermaster.png)
+![UI](screenshots/UI/Suppliermaster.png)
 ---
-![UI](screenshots\UI\PO.png)
+![UI](screenshots/UI/PO.png)
 ---
-![UI](screenshots\UI\GRN.png)
+![UI](screenshots/UI/GRN.png)
 ---
-![UI](screenshots\UI\PRN1.png)
+![UI](screenshots/UI/PRN1.png)
 ---
-![UI](screenshots\UI\MIN.png)
+![UI](screenshots/UI/MIN.png)
 ---
-![UI](screenshots\UI\Anlytics.png)
+![UI](screenshots/UI/Anlytics.png)
 ---
-![UI](screenshots\UI\Reports.png)
+![UI](screenshots/UI/Reports.png)
 ---
-![UI](screenshots\UI\Login.png)
+![UI](screenshots/UI/Login.png)
 ---
-![UI](screenshots\UI\EditPO.png)
+![UI](screenshots/UI/EditPO.png)
 ---
-![UI](screenshots\UI\POprint.png)
+![UI](screenshots/UI/POprint.png)
 ---
-![UI](screenshots\UI\Settings.png)
+![UI](screenshots/UI/Settings.png)
 ---
 
 
