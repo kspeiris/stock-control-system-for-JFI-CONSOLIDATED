@@ -49,6 +49,11 @@ The system is fully modularized and contains the following core modules:
 
 The application relies on a modern, offline-first architecture combining **Electron** (for desktop execution and OS API access) with **React** and **SQLite3**.
 
+![Archi](architecture/Architecture%20diagram.png)
+---
+![Archi](architecture/Work%20flow%20diagram.png)
+
+
 ```mermaid
 graph TD
     subgraph Renderer_Process ["Renderer Process (UI Layer)"]
