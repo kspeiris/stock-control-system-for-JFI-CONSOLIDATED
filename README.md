@@ -1,7 +1,9 @@
 # 📦 JF&I CONSOL — Desktop Stock Control System
 
-> A premium, single-user Desktop Stock Controlling System custom-built for **JF&I CONSOL** / **JFI CONSOLIDATED (PVT) LTD**. This application streamlines warehouse operations, manages inventory levels, coordinates purchase orders, tracks goods received/issued, and provides rich analytical reports.
+> A premium, single-user Desktop Stock Controlling System custom-built for **JFI CONSOLIDATED (PVT) LTD**. This application streamlines warehouse operations, manages inventory levels, coordinates purchase orders, tracks goods received/issued, and provides rich analytical reports.
 
+---
+![hero](screenshots\hero.png)
 ---
 
 ## 🚀 Key System Features
@@ -135,18 +137,37 @@ The core SQL schemas are managed in [database.js](file:///c:/Projects/stock-cont
 
 ## 🖥️ User Interface Screenshots
 
-*Add screenshots here to show the modern dark/light mode interface:*
-
-1.  **Authentication & Personalization Portal**
-    *   *Path: `/assets/screenshots/login_screen.png`*
-2.  **Interactive Performance Dashboard**
-    *   *Path: `/assets/screenshots/dashboard.png`*
-3.  **Item Registry & Transaction Ledger**
-    *   *Path: `/assets/screenshots/item_master.png`*
-4.  **Analytics & Inventory Distributions**
-    *   *Path: `/assets/screenshots/analytics_reports.png`*
-
+![UI](screenshots\UI\overview.png)
 ---
+![UI](screenshots\UI\overviewdark.png)
+---
+![UI](screenshots\UI\Dashboard.png)
+---
+![UI](screenshots\UI\Itemmaster.png)
+---
+![UI](screenshots\UI\Suppliermaster.png)
+---
+![UI](screenshots\UI\PO.png)
+---
+![UI](screenshots\UI\GRN.png)
+---
+![UI](screenshots\UI\PRN1.png)
+---
+![UI](screenshots\UI\MIN.png)
+---
+![UI](screenshots\UI\Anlytics.png)
+---
+![UI](screenshots\UI\Reports.png)
+---
+![UI](screenshots\UI\Login.png)
+---
+![UI](screenshots\UI\EditPO.png)
+---
+![UI](screenshots\UI\POprint.png)
+---
+![UI](screenshots\UI\Settings.png)
+---
+
 
 ## 🚀 Running the Application
 
