@@ -1,4 +1,4 @@
-# 📦 JF&I CONSOL — Desktop Stock Control System
+# 📦 JF&I CONSOL - Desktop Stock Control System
 
 > A premium, single-user Desktop Stock Controlling System custom-built for **JFI CONSOLIDATED (PVT) LTD**. This application streamlines warehouse operations, manages inventory levels, coordinates purchase orders, tracks goods received/issued, and provides rich analytical reports.
 
