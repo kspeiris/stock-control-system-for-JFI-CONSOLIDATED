@@ -39,7 +39,7 @@ The system is fully modularized and contains the following core modules:
     *   Rich data grids presenting Item Registers, Supplier Ledger, Stock Balance reports, and Reorder reports.
     *   **Advanced Analytics dashboard** powered by interactive visual charts (`recharts`) tracking monthly stock trends, category distribution, and top suppliers.
 *   **🔒 Security & Local Database Backups**
-    *   Passkey-protected login for administrators (`197707`).
+    *   Passkey-protected login for administrators.
     *   Automatic session timeout after 30 minutes of inactivity.
     *   Automated database backups (gzipped SQLite databases) with configurable retention days and intervals.
 
